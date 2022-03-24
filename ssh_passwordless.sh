@@ -6,4 +6,5 @@ echo "Enter your IP address"
 read IP
 echo "Enter password one time"
 sudo ssh-copy-id $username@$IP
-ssh-add
+
+sudo ssh $username@$IP

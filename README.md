@@ -15,3 +15,7 @@ Please refer the file as below:
 7. docker_tag.sh gives the script to increment the tag of a image.
 
 8. Dockerfile for execution of docker_tag.sh.
+
+9. ssh_passwordless.sh allows to ssh to another machine passwordless.
+
+10. time_continents.sh allows to switch time by selecting continent first.
